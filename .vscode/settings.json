@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.asl": "csharp",
+        "*.lss": "xml",
+        "*.lsl": "xml"
+    }
+}

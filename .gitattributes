@@ -1,0 +1,5 @@
+*.asl text eol=lf linguist-language=csharp
+*.lss text eol=lf linguist-language=xml
+*.lsl text eol=lf linguist-language=xml
+
+*.json text eol=lf
